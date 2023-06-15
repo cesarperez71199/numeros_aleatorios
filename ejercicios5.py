@@ -5,18 +5,7 @@ Created on Fri May 26 15:22:55 2023
 @author: Cesar Perez
 """
 
-#Ejercicios capitulo 5 
-# 1
-
-"""
-a= "continente"
-b="americano"
-
-print(a+ " "+b)
-
-"""
-
-#2
+#Programa que interactua con el usuario para que adivine un numero aleatorio entre 1 y 20
 
 import random
 
